@@ -1,5 +1,7 @@
 package
 {
+	//NOTE YOU NEED PUREPFD.SWC TO USE THIS EXAMPLE
+		
 	import com.drastudio.Utilities;
 	
 	import flash.display.Sprite;
